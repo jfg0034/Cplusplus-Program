@@ -1,4 +1,4 @@
-# Cplusplus-Program
+# Cplusplus-Program: Banking app
 
   This project was created to provide a way for users to see how much their invested money would increase over the years according to their choice for initial
   capital, interest rate, length of investment, and if they were willing to periodically invest a set amount each month.
