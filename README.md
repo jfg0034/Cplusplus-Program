@@ -1,9 +1,11 @@
 # Cplusplus-Program: Banking app
 
+# Summarize the project and what problem it was solving.  
   This project was created to provide a way for users to see how much their invested money would increase over the years according to their choice for initial
   capital, interest rate, length of investment, and if they were willing to periodically invest a set amount each month.
   A table then would display the differences in yearly interests whether a monthly investment is set or not.
 
+# What did you do particularly well?
   I think I did well on how I structured my main program, very short and simple, relying mostly on the creation of objects and custom functions to ensure the
   program behaved as expected.
 
